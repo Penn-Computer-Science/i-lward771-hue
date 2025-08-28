@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 tacos tacos tacos
 
 pizza pizza pizza
+=======
+>>>>>>> parent of 998b17b (Update Logan.txt.txt)
